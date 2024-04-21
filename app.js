@@ -1,4 +1,4 @@
-let numeroSecteto = 29;
+let numeroSecreto = 29;
 
 let chute;
 
