@@ -1,6 +1,6 @@
 let numeroSecteto = 29;
 
-let chute = prompt('escreva um número entre 1 e 30');
+let chute;
 
 /*if (chute == numeroSecreto) {
     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto}`);
